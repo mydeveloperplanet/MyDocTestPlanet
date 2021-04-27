@@ -1,0 +1,8 @@
+[
+    {
+    "page": "all",
+    "name": "Time Pattern",
+    "type": "pattern",
+    "pattern": "[0-9]{2}:[0-9]{2}:[0-9]{2}"
+    }
+]

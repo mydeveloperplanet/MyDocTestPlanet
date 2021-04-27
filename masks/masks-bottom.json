@@ -1,0 +1,9 @@
+[
+    {
+		"page": "all",
+		"name": "Header Area",
+		"type": "area",
+        "location": "bottom",
+        "percent":  10
+    }
+]
